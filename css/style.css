@@ -254,6 +254,40 @@ textarea {
   }
 }
 
+ul {
+  margin-top: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  .walkins {
+    margin: 0px 0px !important;
+  }
+  .walkin {
+    margin: 1em 0em;
+    img {
+      width: 95% !important;
+    }
+  }
+}
+
+.walkins {
+  margin: 2em 6em;
+}
+
 html {
   color: #222;
   font-size: 1em;
