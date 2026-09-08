@@ -3,9 +3,11 @@ layout: left
 title: Portfolio
 ---
 
+<div style="text-align: center;">
 <img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 50%;" />
 
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
+</div>
 
 # CRISSY \+ CO.
 
@@ -43,7 +45,9 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 > "I wasn't expecting to laugh this much."
 
+<div style="text-align: center;">
 <img src="/img/portfolio2.jpg" alt="Crissy with a client" class="dropshadow" />
+</div>
 
 ## **Why Clients Trust Me**
 
