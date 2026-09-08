@@ -9,6 +9,8 @@ title: Portfolio
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
 </div>
 
+<br />
+
 # CRISSY \+ CO.
 
 Creating a space where athletes, performers, executives, and creatives can slow down, receive care, and exhale. 
