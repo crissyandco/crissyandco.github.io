@@ -9,8 +9,6 @@ title: Portfolio
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
 </div>
 
-<br />
-
 # CRISSY \+ CO.
 
 Creating a space where athletes, performers, executives, and creatives can slow down, receive care, and exhale. 
@@ -35,6 +33,11 @@ With over a decade of professional experience, my work combines nail health, san
 
 From New York Fashion Week to book signings to private appointments, every service is designed around longevity, function, and presentation.
 
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
+<img src="/img/portfolio2.jpg" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio3.jpg" alt="Crissy with a client" class="dropshadow" />
+</div>
+
 ## **What My Chair Sounds Like:**
 
 > "I didn't realize how much I needed this today."
@@ -48,8 +51,8 @@ From New York Fashion Week to book signings to private appointments, every servi
 > "I wasn't expecting to laugh this much."
 
 <div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
-<img src="/img/portfolio2.jpg" alt="Crissy with a client" class="dropshadow" />
-<img src="/img/portfolio3.jpg" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio9.jpg" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio10.jpg" alt="Crissy with a client" class="dropshadow" />
 </div>
 
 ## **Why Clients Trust Me**
