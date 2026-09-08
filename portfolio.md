@@ -31,7 +31,7 @@ With over a decade of professional experience, my work combines nail health, san
 
 From New York Fashion Week to book signings to private appointments, every service is designed around longevity, function, and presentation.
 
-## **What My Chair Sounds Like**
+## **What My Chair Sounds Like:**
 
 > "I didn't realize how much I needed this today."
 
