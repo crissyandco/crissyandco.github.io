@@ -259,6 +259,8 @@ textarea {
   display: grid;
   grid-template-columns: 1fr;
   text-align: left;
+  margin-left: 2em;
+  margin-right: 2em;
   margin-bottom: 5em;
   img {
     text-align: center;
