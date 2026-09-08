@@ -56,21 +56,21 @@ My approach combines professional nail care with an understanding that, for many
 
 ## **Nail Health Philosophy**
 
-Why do healthy nails matter?
+**Why do healthy nails matter?**
 
 It's more than cosmetic. Nails protect your fingers and toes, and support the daily function of the hands and feet. For athletes and performers, nail health can directly affect comfort, movement, grip, and confidence.
 
-How do nails affect athletes?
+**How do nails affect athletes?**
 
 Constant training, impact, friction, repetitive movement and pressure inside athletic footwear can take a toll on the hands and feet. Proper nail and skin care helps manage issues such as damaged nails, excess callous, and discomfort. 
 
 Nail care for hands and feet allow the athlete to focus more on their performance.
 
-How do performers damage nails?
+**How do performers damage nails?**
 
 Dancers and performers often place intense, repetitive demands on their hands and feet. Tight footwear, pointe work, choreography, instruments, costume changes, and constant rehearsal can contribute to nail damage and stress. Consistent care helps maintain healthy nails while supporting the demands placed on the body.
 
-CRISSY \+ CO.   
+**CRISSY \+ CO.**   
 Private Appointments   
 Travel Available   
 Performance Nail Care   
