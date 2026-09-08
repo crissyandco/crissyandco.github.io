@@ -3,9 +3,9 @@ layout: default
 title: Portfolio
 ---
 
-![The Crissy Experience][/img/thecrissyexperience.jpg]
+![The Crissy Experience](/img/thecrissyexperience.jpg)
 
-![Crissy giving a manicure][/img/portfolio1.jpg]
+![Crissy giving a manicure](/img/portfolio1.jpg)
 
 # CRISSY \+ CO.
 
@@ -43,7 +43,7 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 > "I wasn't expecting to laugh this much."
 
-![Crissy with a client][/img/portfolio2.jpg]
+![Crissy with a client](/img/portfolio2.jpg)
 
 ## **Why Clients Trust Me**
 
