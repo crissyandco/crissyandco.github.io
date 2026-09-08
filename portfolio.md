@@ -49,6 +49,7 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 <div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
 <img src="/img/portfolio2.jpg" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio3.jpg" alt="Crissy with a client" class="dropshadow" />
 </div>
 
 ## **Why Clients Trust Me**
@@ -59,10 +60,6 @@ I care about the health of your nails and feet just as much as the finished look
 I take pride in providing a high level of care that’s intentional, and consistent.
 
 My approach combines professional nail care with an understanding that, for many of my clients, their hands and feet aren't just part of their appearance, they are part of how they perform.
-
-<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
-<img src="/img/portfolio3.jpg" alt="Crissy with a client" class="dropshadow" />
-</div>
 
 ## **Nail Health Philosophy**
 
