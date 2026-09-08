@@ -5,7 +5,7 @@ title: Portfolio
 
 <img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 100%;" />
 
-![Crissy giving a manicure](/img/portfolio1.jpg)
+<img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
 
 # CRISSY \+ CO.
 
@@ -43,7 +43,7 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 > "I wasn't expecting to laugh this much."
 
-![Crissy with a client](/img/portfolio2.jpg)
+<img src="/img/portfolio2.jpg" alt="Crissy with a client" class="dropshadow" />
 
 ## **Why Clients Trust Me**
 
