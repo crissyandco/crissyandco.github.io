@@ -5,7 +5,7 @@ title: Portfolio
 
 ![The Crissy Experience][/img/thecrissyexperience.jpg]
 
-![Crissy giving a manicure][img/portfolio1.jpg]
+![Crissy giving a manicure][/img/portfolio1.jpg]
 
 # CRISSY \+ CO.
 
