@@ -35,11 +35,11 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 > "I didn't realize how much I needed this today."
 
-> "I've never had someone explain nail health like this."
+> *"I've never had someone explain nail health like this."*
 
 > "You remembered...."
 
-> "This appointment feels like therapy."
+> *"This appointment feels like therapy."*
 
 > "I wasn't expecting to laugh this much."
 
