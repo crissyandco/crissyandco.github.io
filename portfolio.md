@@ -3,7 +3,7 @@ layout: left
 title: Portfolio
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
 <img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 50%;" />
 
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
@@ -47,7 +47,7 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 > "I wasn't expecting to laugh this much."
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
 <img src="/img/portfolio2.jpg" alt="Crissy with a client" class="dropshadow" />
 </div>
 
@@ -60,7 +60,7 @@ I take pride in providing a high level of care that’s intentional, and consist
 
 My approach combines professional nail care with an understanding that, for many of my clients, their hands and feet aren't just part of their appearance, they are part of how they perform.
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
 <img src="/img/portfolio3.jpg" alt="Crissy with a client" class="dropshadow" />
 </div>
 
