@@ -64,6 +64,10 @@ I take pride in providing a high level of care that’s intentional, and consist
 
 My approach combines professional nail care with an understanding that, for many of my clients, their hands and feet aren't just part of their appearance, they are part of how they perform.
 
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
+<img src="/img/portfolio12.jpg" alt="Crissy with a client" class="dropshadow" />
+</div>
+
 ## **Nail Health Philosophy**
 
 **Why do healthy nails matter?**
