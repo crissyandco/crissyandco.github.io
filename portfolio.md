@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-![The Crissy Experience](/img/thecrissyexperience.jpg)
+<img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 100%;" />
 
 ![Crissy giving a manicure](/img/portfolio1.jpg)
 
