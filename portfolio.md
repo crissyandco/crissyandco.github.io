@@ -77,6 +77,12 @@ Nail care for hands and feet allow the athlete to focus more on their performanc
 
 Dancers and performers often place intense, repetitive demands on their hands and feet. Tight footwear, pointe work, choreography, instruments, costume changes, and constant rehearsal can contribute to nail damage and stress. Consistent care helps maintain healthy nails while supporting the demands placed on the body.
 
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
+<img src="/img/portfolio4.webp" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio5.jpg" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio6.jpg" alt="Crissy with a client" class="dropshadow" />
+</div>
+
 **CRISSY \+ CO.**   
 Private Appointments   
 Travel Available   
@@ -87,3 +93,10 @@ Raleigh. New York. East Coast. Available Worldwide.
 Crystal Sanders  
 [crystalesanders@gmail.com](mailto:crystalesanders@gmail.com)  
 [crissyand.co](https://crissyand.co)  
+
+<div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
+<img src="/img/portfolio7.jpg" alt="Crissy with a client" class="dropshadow" />
+<img src="/img/portfolio8.jpg" alt="Crissy with a client" class="dropshadow" />
+</div>
+
+
