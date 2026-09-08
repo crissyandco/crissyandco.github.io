@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-<img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 100%;" />
+<img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 50%;" />
 
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
 
