@@ -6,7 +6,9 @@ title: Portfolio
 <div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
 <img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 50%;" />
 
-# luxury nail care. offline
+<br/>
+<h1>luxury nail care. offline</h1>
+<br/>
 
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
 </div>
