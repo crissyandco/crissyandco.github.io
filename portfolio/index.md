@@ -6,6 +6,8 @@ title: Portfolio
 <div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
 <img src="/img/thecrissyexperience.jpg" alt="The Crissy Experience" style="width: 50%;" />
 
+# luxury nail care. offline
+
 <img src="/img/portfolio1.jpg" alt="Crissy giving a manicure" class="dropshadow" />
 </div>
 
@@ -57,9 +59,8 @@ From New York Fashion Week to book signings to private appointments, every servi
 
 ## **Why Clients Trust Me**
 
-My clients trust me because I combine skill, professionalism, and genuine care.  
-I prioritize nail health, sanitation, and attention to detail while creating an experience that feels personal to every client.  
-I care about the health of your nails and feet just as much as the finished look.  
+Guided in refined skill and care, I focus on nail health, prioritizing sanitation and thoughtful detail, while creating an experience that feels personal to every client. Every service is meant to be personal, an experience where you feel seen, comfortable, and cared for. 
+I care about the health of your nails and feet just as much as the finished look.
 I take pride in providing a high level of care that’s intentional, and consistent.
 
 My approach combines professional nail care with an understanding that, for many of my clients, their hands and feet aren't just part of their appearance, they are part of how they perform.
