@@ -41,15 +41,15 @@ From New York Fashion Week to book signings to private appointments, every servi
 <img src="/img/portfolio3.jpg" alt="Crissy with a client" class="dropshadow" />
 </div>
 
-## **What My Chair Sounds Like:**
+## **Client Testimonials**
 
-> "I didn't realize how much I needed this today."
+> "The BEST and most experienced nail tech in the area. Crissy is so knowledgeable and talented."
 
 > *"I've never had someone explain nail health like this."*
 
-> "You remembered...."
+> "This was the best manicure that I have ever had! She made my nails look amazing, but it was also just an experience!"
 
-> *"This appointment feels like therapy."*
+> *"Phenomenal artist and you can expect exceptional customer service and quality service"*
 
 > "I wasn't expecting to laugh this much."
 
